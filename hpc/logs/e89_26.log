@@ -1,0 +1,15 @@
+======================================================
+Un_Sh experiments E8/E9 -- part 26
+  Job ID     : 7028622   bulk number : 26
+  Host       : a0773
+  Date       : 2026年 10月  8日 木曜日 21:01:36 JST
+  Tasks      : tasks/e89_part26.txt   ->  data/e89/part26
+  MPI ranks  : 15   OpenMP threads per rank : 8   run cap : 40960000
+======================================================
+master: 72 tasks, 69 already done, 3 to run on 14 workers; run cap 40960000
+master: dispatched 3 / 3 after 2.96394e-05 min
+task 3213: resumed from checkpoint (window 0, 1280000 runs per batch done)
+task 3616: resumed from checkpoint (window 2, 160000 runs per batch done)
+task 3180: resumed from checkpoint (window 1, 160000 runs per batch done)
+rank 14: 3180	UTE	Sh	0	0	0.2	1	1	1.94524845	0.002225944568	2560000	304	ok	553.382
+rank 5: 3616	JAZZ	U	0.1	0.1	0.2	1	1	1.914940522	0.001728179032	2560000	284	ok	1423.88

@@ -1,0 +1,13 @@
+======================================================
+Un_Sh experiments E8/E9 -- part 22
+  Job ID     : 7028622   bulk number : 22
+  Host       : a0763
+  Date       : 2026年 10月  8日 木曜日 21:01:38 JST
+  Tasks      : tasks/e89_part22.txt   ->  data/e89/part22
+  MPI ranks  : 15   OpenMP threads per rank : 8   run cap : 40960000
+======================================================
+master: 72 tasks, 72 already done, 0 to run on 14 workers; run cap 40960000
+master: all workers finished after 2.7861e-05 min
+======================================================
+E8/E9, part 22 finished at 2026年 10月  8日 木曜日 21:01:40 JST
+======================================================

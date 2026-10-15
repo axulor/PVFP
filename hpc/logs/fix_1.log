@@ -1,0 +1,12 @@
+======================================================
+Un_Sh reruns with the revised estimator (1 x 120 threads) -- part 01
+  Job ID     : 7019255   bulk number : 1
+  Host       : a0741
+  Date       : 2026年 10月  7日 水曜日 22:12:01 JST
+  Tasks      : tasks/fix_part01.txt   ->  data/fix/part01
+======================================================
+serial mode: 1 tasks, 0 already done, 1 to run
+46	RHG_g3.0_T0.1	U	1.3	1.4	1	1	1	1.077421392	0.001050128275	40000	84	ok	322.712
+======================================================
+fix reruns, part 01 finished at 2026年 10月  7日 水曜日 22:17:26 JST
+======================================================

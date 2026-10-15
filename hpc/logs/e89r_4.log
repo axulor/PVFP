@@ -1,0 +1,15 @@
+======================================================
+Un_Sh experiments E8/E9 -- resume part 04 in wide mode
+  Job ID     : 7028431   bulk number : 4
+  Host       : a0367
+  Date       : 2026年 10月  8日 木曜日 20:30:13 JST
+  Tasks      : tasks/e89_part04.txt   ->  data/e89/part04
+  MPI ranks  : 15   OpenMP threads per rank : 8   run cap : 40960000
+  Checkpoints: task_2340.txt 
+======================================================
+wide mode: 303 tasks, 302 already done, 1 to run, each on all 15 ranks; run cap 40960000
+task 2340: resumed from checkpoint (window 0, 1280000 runs per batch done)
+2340	JAZZ	U	0	0	0.5	1	1	1.999473773	0.002259333747	20480000	204	ok	213.99   [3.56664 min]
+======================================================
+E8/E9 resume of part 04 finished at 2026年 10月  8日 木曜日 20:33:50 JST
+======================================================

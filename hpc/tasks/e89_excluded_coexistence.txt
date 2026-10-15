@@ -1,0 +1,12 @@
+# 2026-10-08: theta = 2 tasks removed from their part files (ids unchanged in <exp>_all.txt).
+# Successful invasions of either strategy enter a long-lived coexistence (URV Sh eps = 1, b = 1.8: cooperator
+# share 0.4-0.65 for > 2e7 updates); fixation-based b* cannot be estimated.  Excluded from figure 5.
+# experiment part-file  id net rule eps1 eps2 theta delta seed target guess cost
+e89 e89_part16.txt 3543 FBF U 1 1 2 1 1 0.002 1.30924768 310.5
+e89 e89_part20.txt 3609 URV Sh 0.5 0.5 2 1 1 0.002 1.728074042 624.1
+e89 e89_part20.txt 2625 BA_m8 Sh 1 1 2 1 1 0.002 1.862367045 528.7
+e89 e89_part24.txt 3144 CPH Sh 1 1 2 1 1 0.002 1.864431661 959.5
+e89w e89w_part05.txt 49 URV Sh 1 1 2 1 1 0.002 1.7992553 2679.8
+e89w e89w_part05.txt 13 RHG_g3.0_T0.1 U 1 1 2 1 1 0.002 1.159999107 2026.8
+e89w e89w_part06.txt 41 CPH-FB Sh 1 1 2 1 1 0.002 1.868636051 2998.3
+e89w e89w_part06.txt 46 EEU Sh 1 1 2 1 1 0.002 1.898342566 2066.1

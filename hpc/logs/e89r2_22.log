@@ -1,0 +1,13 @@
+======================================================
+Un_Sh experiments E8/E9 -- resume part 22 in wide mode
+  Job ID     : 7029003   bulk number : 22
+  Host       : a0745
+  Date       : 2026年 10月  8日 木曜日 21:56:23 JST
+  Tasks      : tasks/e89_part22.txt   ->  data/e89/part22
+  MPI ranks  : 30   OpenMP threads per rank : 8   run cap : 40960000
+  Checkpoints: 
+======================================================
+wide mode: 72 tasks, 72 already done, 0 to run, each on all 30 ranks; run cap 40960000
+======================================================
+E8/E9 resume of part 22 finished at 2026年 10月  8日 木曜日 21:56:26 JST
+======================================================

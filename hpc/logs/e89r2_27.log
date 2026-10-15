@@ -1,0 +1,15 @@
+======================================================
+Un_Sh experiments E8/E9 -- resume part 27 in wide mode
+  Job ID     : 7029003   bulk number : 27
+  Host       : a0785
+  Date       : 2026年 10月  8日 木曜日 21:56:23 JST
+  Tasks      : tasks/e89_part27.txt   ->  data/e89/part27
+  MPI ranks  : 30   OpenMP threads per rank : 8   run cap : 40960000
+  Checkpoints: task_3147.txt 
+======================================================
+wide mode: 72 tasks, 71 already done, 1 to run, each on all 30 ranks; run cap 40960000
+task 3147: resumed from checkpoint (window 0, 1280000 runs per batch done)
+3147	UTM	Sh	0	0	0.2	1	1	1.846619952	0.001786268937	10240000	184	ok	105.909   [1.7653 min]
+======================================================
+E8/E9 resume of part 27 finished at 2026年 10月  8日 木曜日 21:58:11 JST
+======================================================

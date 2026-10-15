@@ -1,0 +1,18 @@
+======================================================
+Un_Sh experiments E8/E9 -- part 17
+  Job ID     : 7028622   bulk number : 17
+  Host       : a0744
+  Date       : 2026年 10月  8日 木曜日 21:01:36 JST
+  Tasks      : tasks/e89_part17.txt   ->  data/e89/part17
+  MPI ranks  : 15   OpenMP threads per rank : 8   run cap : 40960000
+======================================================
+master: 72 tasks, 70 already done, 2 to run on 14 workers; run cap 40960000
+master: dispatched 2 / 2 after 2.55563e-05 min
+task 3122: resumed from checkpoint (window 1, 320000 runs per batch done)
+task 3632: resumed from checkpoint (window 1, 320000 runs per batch done)
+rank 7: 3632	JAZZ	U	0.5	0.5	0.1	1	1	1.895668914	0.002613626249	2560000	184	ok	931.303
+rank 5: 3122	CPH	U	0.2	0.2	0.1	1	1	1.826990764	0.003291321263	2560000	164	ok	1149.94
+master: all workers finished after 19.1658 min
+======================================================
+E8/E9, part 17 finished at 2026年 10月  8日 木曜日 21:20:49 JST
+======================================================

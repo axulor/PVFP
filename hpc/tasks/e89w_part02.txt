@@ -1,0 +1,2 @@
+# id net rule eps1 eps2 theta delta seed target guess cost
+12 RHG_g3.0_T0.1 U 1 1 0.1 1 1 0.002 1.159999107 22509.3

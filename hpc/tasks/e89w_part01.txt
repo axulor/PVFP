@@ -1,0 +1,4 @@
+# id net rule eps1 eps2 theta delta seed target guess cost
+2 THS Sh 0 0 0.1 1 1 0.002 1.715809704 2087.5
+0 ER_k8 Sh 0 0 0.1 1 1 0.002 1.845770144 1828.7
+1 HK_m4_p0.9 U 0 0 0.1 1 1 0.002 1.990686801 1796.3

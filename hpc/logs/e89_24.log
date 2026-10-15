@@ -1,0 +1,13 @@
+======================================================
+Un_Sh experiments E8/E9 -- part 24
+  Job ID     : 7028622   bulk number : 24
+  Host       : a0771
+  Date       : 2026年 10月  8日 木曜日 21:01:41 JST
+  Tasks      : tasks/e89_part24.txt   ->  data/e89/part24
+  MPI ranks  : 15   OpenMP threads per rank : 8   run cap : 40960000
+======================================================
+master: 72 tasks, 70 already done, 2 to run on 14 workers; run cap 40960000
+master: dispatched 2 / 2 after 2.50022e-05 min
+task 3144: resumed from checkpoint (window 0, 0 runs per batch done)
+task 2593: resumed from checkpoint (window 3, 1280000 runs per batch done)
+rank 6: 2593	BA_m8	U	0	0	0.1	1	1	2.008285758	0.003994328436	10240000	386	ok	1382.62

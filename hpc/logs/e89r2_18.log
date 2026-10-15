@@ -1,0 +1,15 @@
+======================================================
+Un_Sh experiments E8/E9 -- resume part 18 in wide mode
+  Job ID     : 7029003   bulk number : 18
+  Host       : a0737
+  Date       : 2026年 10月  8日 木曜日 21:56:23 JST
+  Tasks      : tasks/e89_part18.txt   ->  data/e89/part18
+  MPI ranks  : 30   OpenMP threads per rank : 8   run cap : 40960000
+  Checkpoints: task_3381.txt 
+======================================================
+wide mode: 72 tasks, 71 already done, 1 to run, each on all 30 ranks; run cap 40960000
+task 3381: resumed from checkpoint (window 2, 1280000 runs per batch done)
+3381	ESH	Sh	0	0	0.1	1	1	1.833253009	0.002249025842	10240000	364	ok	54.4839   [0.908161 min]
+======================================================
+E8/E9 resume of part 18 finished at 2026年 10月  8日 木曜日 21:57:20 JST
+======================================================
